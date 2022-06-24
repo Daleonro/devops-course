@@ -11,7 +11,7 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		String message = "Mensaje default del cambio de codigo";
+		String message = "Mensaje default del cambio de codigo por segunda vez";
 		Assert.assertNotNull(message);
 	}
 
